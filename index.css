@@ -1,0 +1,48 @@
+body{
+    /* background-image: url("back.jpg"); */
+    font-family: fantasy;
+    background-color: rgb(34, 58, 122);
+    color: rgb(8, 3, 90);
+    font-size: 45px;
+    
+}
+img{
+    width: 180px;
+    height: 180px;
+    border-radius: 55%;
+}
+.btn{
+    background-color: rgb(28, 40, 41);
+    color: rgb(249, 249, 249);
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: red 4px yellowgreen;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.btn:hover{
+    background-color: rgb(117, 234, 125);
+    color: rgb(23, 28, 21);
+
+}
+.container{
+    background-color: rgba(103, 212, 227, 0.799);
+    font-size: 40px;
+    padding: 22px;
+    border-radius: 52px;
+    margin-top: 22px;
+    display: flex;
+    align-items: center;
+}
+span{
+    color: rgb(255, 150, 4);
+}
+#n{
+    color: rgb(120, 38, 38);
+}
+#a{
+    color: rgb(255, 0, 115);
+}
+#c{
+    color: rgb(254, 223, 43);
+}
